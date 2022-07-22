@@ -43,6 +43,7 @@ function App() {
 				<AlbumView />
 				<ArtistView />
 			</DataContext.Provider>
+
 		</div>
 	);
 }
